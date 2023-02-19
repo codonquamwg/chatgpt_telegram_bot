@@ -1,4 +1,4 @@
-telegram_token: ""
-openai_api_key: ""
-allowed_telegram_usernames: []  # if empty, the bot is available to anyone
+telegram_token: "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"
+openai_api_key: "6159895118:AAGuRfladv6Gm4NH--w9lvCdfmnxfLw0gck"
+allowed_telegram_usernames: [Codonqua_bot]  # if empty, the bot is available to anyone
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
